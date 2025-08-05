@@ -16,7 +16,7 @@
 
 I’m a passionate **AI/ML Engineer and a Full Stack Enthusiasist** from **Bengaluru**, dedicated to building scalable and impactful digital solutions. I love taking on challenging projects that push my limits and expand my technological horizons.
 
-- 🚀 Currently working on **[Your Project Name](Your Project Link)** — [brief description of project goal].
+- 🚀 Currently working on **FISO and QFLARE".
 - 🌱 Deep-diving into **Cloud-Native Architectures**, **Kubernetes**, and **Serverless Computing**.
 - 💡 Open for **collaborations on Open Source Projects** in **MERN**, **Go**, and **DevOps automation**.
 - 💬 Ask me about **System Design, JavaScript Performance Tuning, or Scalable Backend Architectures**.
