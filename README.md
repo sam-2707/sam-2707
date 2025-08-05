@@ -1,12 +1,10 @@
-## Hi there 👋
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B" alt="Typing SVG">
   </a>
 </h1>
 
-<h3 align="center">A passionate YOUR_FIELD from YOUR_LOCATION 📍</h3>
+<h3 align="center">A passionate AI/ML Engineer from Bengaluru 📍</h3>
 
 ---
 
@@ -14,10 +12,10 @@
 
 I'm a passionate developer with a love for building innovative and user-friendly applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🔭 I’m currently working on **[YOUR_PROJECT_NAME](YOUR_PROJECT_LINK)**, a project that aims to solve [problem project solves].
+- 🔭 I’m currently working on **FISO(YOUR_PROJECT_LINK)**, a project that aims to solve [problem project solves].
 - 🌱 I’m currently learning **YOUR_CURRENT_FOCUS** to expand my skill set.
 - 💬 Ask me about anything related to **React, Node.js, or cloud technologies**. I'm happy to help!
-- 📫 How to reach me: **[YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS)**
+- 📫 How to reach me: **krishnsameer54@gmail.com(mailto:krishnsameer54@gmail.com)**
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
 ---
@@ -64,7 +62,7 @@ Here are some of the technologies I'm proficient in. I'm always eager to learn m
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="YOUR_NAME's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=00BFFF&background=151515&ring=00BFFF&fire=00BFFF&currStreakNum=DAF7DC&sideNums=DAF7DC&currStreakLabel=DAF7DC&sideLabels=DAF7DC" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-2707&theme=tokyonight&hide_border=true&stroke=00BFFF&background=151515&ring=00BFFF&fire=00BFFF&currStreakNum=DAF7DC&sideNums=DAF7DC&currStreakLabel=DAF7DC&sideLabels=DAF7DC" />
   </a>
 </p>
 
