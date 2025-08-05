@@ -1,88 +1,95 @@
-<h1 align="center">
+<div align="center">
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sam+%F0%9F%91%8B;YOUR_TITLE;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
-</h1>
+  
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=sam-2707&label=Profile%20Views&color=0e75b6&style=flat" alt="sam-2707" /> 
+  </p>
 
-<h3 align="center">A passionate AI/ML Engineer from Bengaluru 📍</h3>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer with a love for building innovative and user-friendly applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate developer based in **YOUR_LOCATION**, with a strong interest in creating impactful and efficient solutions. I thrive on challenges and am constantly exploring new technologies to improve my craft.
 
-- 🔭 I’m currently working on **FISO(YOUR_PROJECT_LINK)**, a project that aims to solve [problem project solves].
-- 🌱 I’m currently learning **YOUR_CURRENT_FOCUS** to expand my skill set.
-- 💬 Ask me about anything related to **React, Node.js, or cloud technologies**. I'm happy to help!
-- 📫 How to reach me: **krishnsameer54@gmail.com(mailto:krishnsameer54@gmail.com)**
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+- 🚀 Currently building **[YOUR_PROJECT_NAME](YOUR_PROJECT_LINK)**, a web application focused on [describe project's goal briefly].
+- 🧠 Exploring the depths of **Cloud-Native technologies and Serverless Architectures**.
+- 🤝 Open to collaborating on innovative **Open Source projects**, especially in the MERN stack or Go.
+- 💬 Feel free to ask me anything about **JavaScript, System Design, or anything else** you think I can help with!
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Languages and Tools
 
-Here are some of the technologies I'm proficient in. I'm always eager to learn more!
+This is my toolbox! I have experience with a range of technologies for building modern web applications.
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a>
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> </a>
   
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
   
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/> </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 🔥 GitHub Stats & Activity
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="YOUR_NAME's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&icon_color=00BFFF&text_color=daf7dc&bg_color=151515&hide_border=true" />
-  </a>
+This section showcases my coding activity and stats from GitHub.
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sam-2707&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sam's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-2707&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sam-2707&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8&text_color=daf7dc&bg_color=151515&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-2707&theme=tokyonight&hide_border=true&stroke=00BFFF&background=151515&ring=00BFFF&fire=00BFFF&currStreakNum=DAF7DC&sideNums=DAF7DC&currStreakLabel=DAF7DC&sideLabels=DAF7DC" />
-  </a>
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-2707&theme=github-dark&hide_border=true&hide_title=false&line=3399FF&point=FFFFFF&area=true&bg_color=161B22" alt="GitHub Contribution Graph" />
+  
+</div>
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
-You can find me on the following platforms. Let's connect!
+I'd love to connect with you. You can find me on the following platforms:
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Portfolio"/>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3399FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noreferrer">
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank" rel="noreferrer">
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
